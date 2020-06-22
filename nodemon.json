@@ -1,0 +1,6 @@
+{
+  "ignore": ["dist/*"],
+  "execMap": {
+    "build": "npm run build"
+  }
+}
