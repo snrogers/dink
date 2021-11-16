@@ -13,7 +13,7 @@
   },
   "author": "",
   "dependencies": {
-    "aws-sdk": "^2.673.0",
+    "aws-sdk": "^2.814.0",
     "crocks": "^0.12.4",
     "p-retry": "^4.2.0",
     "ramda": "^0.27.0",
